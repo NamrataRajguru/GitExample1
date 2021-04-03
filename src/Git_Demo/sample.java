@@ -6,6 +6,7 @@ public class sample
 	{
 		
 		System.out.println("New Example of Git");
+		System.out.println("Hi");
 	}
 
 }
